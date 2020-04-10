@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BomVoyage</string>
+    <string name="txUsuario">Usuario</string>
+    <string name="txSenha">Senha</string>
+    <string name="bem_vindo">Bem vindo ao Bom Voyage</string>
+    <string name="login_invalido">Login inválido</string>
+</resources>

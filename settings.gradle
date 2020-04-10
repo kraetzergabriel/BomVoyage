@@ -1,0 +1,2 @@
+rootProject.name='BomVoyage'
+include ':app'
