@@ -4,4 +4,11 @@
     <string name="txSenha">Senha</string>
     <string name="bem_vindo">Bem vindo ao Bom Voyage</string>
     <string name="login_invalido">Login inválido</string>
+    <string name="tx_title">Title</string>
+    <string name="txPriority">Priority</string>
+    <string name="txStatus">Status</string>
+    <string name="txLow">Low</string>
+    <string name="txMedium">Medium</string>
+    <string name="txHigh">High</string>
+    <string name="txTimeAndDate">Time and Date</string>
 </resources>
